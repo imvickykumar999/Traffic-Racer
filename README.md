@@ -1,3 +1,3 @@
 # Traffic-Racer
 # Game
-![](https://github.com/imvickykumar999/Traffic-Racer/blob/master/screenshot.png)
+[![Game](https://github.com/imvickykumar999/Traffic-Racer/blob/master/screenshot.png)](https://imvickykumar999.github.io/Traffic-Racer/)
